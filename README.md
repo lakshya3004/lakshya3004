@@ -15,10 +15,10 @@
 ---
 
 ## 📌 Featured Projects  
-1. **[AI Fact Checker for WhatsApp & Telegram](https://github.com/lakshya3004/ai-fact-checker)**  
+1. **[AI Fact Checker for WhatsApp & Telegram]((https://github.com/lakshya3004/Telegram_bot))**  
    - Real-time text ingestion pipeline for fake news detection using NLP & Hugging Face.  
 
-2. **[Customer Segmentation using Clustering](https://github.com/lakshya3004/customer-segmentation)**  
+2. **[Customer Segmentation using Clustering]((https://github.com/lakshya3004/adf-country-project))**  
    - Unsupervised ML model to group customers by behavior metrics.  
 
 
