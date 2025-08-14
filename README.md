@@ -2,7 +2,7 @@
 # Hi there, I'm Lakshya 👋  
 
 🚀 **Aspiring AI/ML Engineer** | Backend Developer | Problem Solver  
-🎯 Passionate about AI, Blockchain, and building scalable systems.  
+🎯 Passionate about AI, and building scalable systems.  
 
 ---
 
